@@ -83,10 +83,11 @@ td,
 th {
     border: 1px solid black;
     padding: 5px;
-    
+    text-align: center;
+    height: 20px;
+    width:140px;
 }
 
-td{
-
-    text-align: left;
+.location{
+    list-style: none;
 }
